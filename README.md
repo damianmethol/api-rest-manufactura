@@ -1,7 +1,7 @@
 # api-rest-manufactura
 API Rest de un sistema de manufactura. Realizada con Spring Boot, MySQL, Thymeleaf, Bootstrap y utilizando el IDE Spring Tools Suite.
 
-Para ejecutar el proyecto, primero se debe crear una base de datos con el nombre 'desafio'.
+Para ejecutar el proyecto, primero se debe crear una base de datos con el nombre 'desafio'. Una vez desplegado, la ruta para ingresar al frontend es http://localhost:8080/user
 
 Ubicación de archivos:
 
